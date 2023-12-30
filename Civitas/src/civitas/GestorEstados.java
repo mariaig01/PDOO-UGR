@@ -6,7 +6,7 @@ package civitas;
 
 /**
  *
- * @author Rocío
+ * @author María
  */
 class GestorEstados {
   EstadoJuego estadoInicial() {
