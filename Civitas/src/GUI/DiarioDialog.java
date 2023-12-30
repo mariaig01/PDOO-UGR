@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author angus
+ * @author María
  */
 public class DiarioDialog extends javax.swing.JDialog {
     
