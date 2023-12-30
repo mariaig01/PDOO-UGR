@@ -6,7 +6,7 @@ package civitas;
 
 /**
  *
- * @author Rocío
+ * @author María
  */
 import java.util.Random;
 import java.util.ArrayList;
