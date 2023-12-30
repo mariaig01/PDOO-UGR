@@ -10,7 +10,7 @@ import javax.swing.DefaultListModel;
 
 /**
  *
- * @author angus
+ * @author María
  */
 public class PropiedadDialog extends javax.swing.JDialog {
     
