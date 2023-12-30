@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Rocío
+ * @author María
  */
 
 /*import civitas.CivitasJuego;
