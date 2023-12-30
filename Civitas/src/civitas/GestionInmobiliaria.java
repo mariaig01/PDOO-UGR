@@ -6,7 +6,7 @@ package civitas;
 
 /**
  *
- * @author Rocío
+ * @author María
  */
 public class GestionInmobiliaria {
     private int propiedad;
