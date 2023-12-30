@@ -28,7 +28,7 @@ import java.util.Collections;
 
 /**
  *
- * @author angus
+ * @author María
  */
 
 //NO SE SI LO DE IMPLEMENTS VISTA ES NECESARIO O NO
