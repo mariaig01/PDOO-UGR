@@ -15,7 +15,7 @@ import javax.swing.border.Border;
 
 /**
  *
- * @author angus
+ * @author María
  */
 public class CasillaPanel extends javax.swing.JPanel {
 
