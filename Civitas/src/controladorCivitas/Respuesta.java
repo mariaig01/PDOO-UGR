@@ -6,6 +6,6 @@ package controladorCivitas;
 
 /**
  *
- * @author Rocío
+ * @author María
  */
 public enum Respuesta{NO, SI}
