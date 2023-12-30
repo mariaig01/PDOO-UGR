@@ -10,7 +10,7 @@ import civitas.CasillaCalle;
 
 /**
  *
- * @author angus
+ * @author María
  */
 public class JugadorPanel extends javax.swing.JPanel {
 
