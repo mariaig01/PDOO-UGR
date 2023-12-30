@@ -7,7 +7,7 @@ package civitas;
 import java.util.ArrayList;
 /**
  *
- * @author Rocío
+ * @author María
  */
 public class Tablero {
     
