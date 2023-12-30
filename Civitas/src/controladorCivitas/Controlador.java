@@ -13,7 +13,7 @@ import GUI.Dado;
 
 /**
  *
- * @author Rocío
+ * @author María
  */
 public class Controlador {
     private CivitasJuego juego;
