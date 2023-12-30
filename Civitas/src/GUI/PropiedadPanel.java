@@ -8,7 +8,7 @@ import civitas.CasillaCalle;
 import civitas.CasillaSorpresa;
 /*
  *
- * @author angus
+ * @author María
  */
 public class PropiedadPanel extends javax.swing.JPanel {
     
