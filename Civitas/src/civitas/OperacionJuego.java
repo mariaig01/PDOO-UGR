@@ -6,6 +6,6 @@ package civitas;
 
 /**
  *
- * @author Rocío
+ * @author María
  */
 public enum OperacionJuego{PASAR_TURNO, AVANZAR, COMPRAR, GESTIONAR}
