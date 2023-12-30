@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author angus
+ * @author María
  */
 
 public class SorpresaPorCasaHotel extends Sorpresa{
