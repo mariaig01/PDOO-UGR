@@ -6,6 +6,6 @@ package civitas;
 
 /**
  *
- * @author Rocío
+ * @author María
  */
 public enum OperacionInmobiliaria{CONSTRUIR_CASA, CONSTRUIR_HOTEL, TERMINAR}
