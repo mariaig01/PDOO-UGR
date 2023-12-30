@@ -6,7 +6,7 @@ package civitas;
 
 /**
  *
- * @author Rocío
+ * @author María
  */
 import static civitas.JugadorEspeculador.CasasMax;
 import static civitas.JugadorEspeculador.HotelesMax;
